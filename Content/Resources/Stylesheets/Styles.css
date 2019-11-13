@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 :root
 {
@@ -378,4 +378,9 @@ p.footer-sub
 		width: 100%;
 		margin: 3% 0;
 	}
+}
+
+MadCap|variable.CompanyName
+{
+	color: #ffa500;
 }
